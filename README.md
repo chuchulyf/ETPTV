@@ -10,4 +10,4 @@ Hyperspectral Image Denoising via Texture-preserved Total Variation Regularizer
 }
 
 please let me know if you have any questions.
-Wechat:18192705701
+Wechat:sunny33grace
